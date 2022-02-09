@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+}
+div {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 32px;
+}
